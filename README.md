@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:161616,100:1f1f1f&height=260&section=header&text=Pham%20Hoang%20Tuan&fontSize=58&fontColor=C9A84C&fontAlignY=44&desc=Founder%20-%20CEO%20MST%20Software%20%20|%20%20VP%20Academic%20F-Code%20Club%20&descSize=15&descFontColor=888888&descAlignY=63&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:161616,100:1f1f1f&height=260&section=header&text=Hoang%20Tuan&fontSize=58&fontColor=C9A84C&fontAlignY=44&desc=Founder%20-%20CEO%20MST%20Software%20%20|%20%20VP%20Academic%20F-Code%20Club%20&descSize=15&descFontColor=888888&descAlignY=63&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -238,7 +238,7 @@ Areas of focus: `Authentication Bypass` &nbsp;`IDOR` &nbsp;`SQL Injection` &nbsp
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hoangtuanqn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc&cache_seconds=1800"/>
+<img height="175em" src="https://gh-readme-stats.vercel.app/api?username=hoangtuanqn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanqn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A84C&text_color=cccccc&cache_seconds=1800"/>
 
 </div>
