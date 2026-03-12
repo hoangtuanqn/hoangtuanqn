@@ -8,7 +8,9 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-%40htuanqn_·_~100K_Verified-C9A84C?style=flat-square&logo=youtube&logoColor=C9A84C&labelColor=111111)](https://www.youtube.com/@htuanqn)&ensp;
+[![YouTube](https://img.shields.io/badge/Tuấn_Ori_IT-~100K_Verified-C9A84C?style=flat-square&logo=youtube&logoColor=C9A84C&labelColor=111111)](https://www.youtube.com/@htuanqn)&ensp;
+[![YouTube](https://img.shields.io/badge/Tuấn_Ori_API-YouTube-C9A84C?style=flat-square&logo=youtube&logoColor=C9A84C&labelColor=111111)](https://www.youtube.com/@TuanOriITv3)&ensp;
+[![YouTube](https://img.shields.io/badge/Ori_IT-YouTube-C9A84C?style=flat-square&logo=youtube&logoColor=C9A84C&labelColor=111111)](https://www.youtube.com/@OriITv2)&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-phamhoangtuanqn-C9A84C?style=flat-square&logo=facebook&logoColor=C9A84C&labelColor=111111)](https://www.facebook.com/phamhoangtuanqn/)&ensp;
 [![Fanpage](https://img.shields.io/badge/Fanpage-MST_Software-C9A84C?style=flat-square&logo=facebook&logoColor=C9A84C&labelColor=111111)](https://www.facebook.com/mstsoftware.vn/)&ensp;
 [![Email](https://img.shields.io/badge/Email-tuan@mstsoftware.vn-C9A84C?style=flat-square&logo=gmail&logoColor=C9A84C&labelColor=111111)](mailto:tuan@mstsoftware.vn)
@@ -37,7 +39,9 @@ I built MST Software to engineer specialized technology solutions for the **MMO 
 
 At **F-Code Club, FPT University HCMC**, I currently serve as **VP Academic** — responsible for the full technical education program across the club. Prior to this, I joined F-Code as a developer member and rose through the organization. During the club's annual Recruitment season, I led the technical track as **Technical Leader**, designing and evaluating challenges to identify the next generation of engineers.
 
-I also run **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)**, a YouTube channel with nearly **100,000 subscribers** (Verified) — where I share engineering knowledge from a founder's perspective, not a textbook's.
+I run multiple YouTube channels under the Tuấn Ori brand: **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)** (nearly 100,000 subscribers · Verified), **[Tuấn Ori API](https://www.youtube.com/@TuanOriITv3)**, and **[Ori IT](https://www.youtube.com/@OriITv2)** — each covering a different angle of software engineering and MMO technology, all from a founder's perspective, not a textbook's.
+
+Beyond building for clients, I've independently shipped products that reached **25,000 active users** and generated revenue in the **9–10 digit range (VND)** — bootstrapped, no external funding.
 
 I have a focused interest in **web application security**. I've identified and responsibly disclosed critical vulnerabilities in institutional systems — including authentication bypasses, exposed data endpoints, and privilege escalation paths — reporting all findings directly to the relevant parties rather than exploiting them.
 
@@ -45,10 +49,10 @@ I have a focused interest in **web application security**. I've identified and r
 
 <div align="center">
 
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|:---:|
-| **10+** | **60+** | **~100K** | **2** |
-| Projects Shipped | Students Mentored | YouTube Subscribers | Degrees in Progress |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|:---:|:---:|
+| **10+** | **60+** | **~100K** | **25K+** | **2** |
+| Projects Shipped | Students Mentored | YouTube Subscribers | Peak Users | Degrees in Progress |
 
 </div>
 
