@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:161616,100:1f1f1f&height=260&section=header&text=Pham%20Hoang%20Tuan&fontSize=58&fontColor=C9A84C&fontAlignY=44&desc=Founder%20-%20CEO%20|%20MST%20Software%20|%20VP%20Academic%20|%20F-Code%20Club&descSize=15&descFontColor=888888&descAlignY=63&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:161616,100:1f1f1f&height=260&section=header&text=Pham%20Hoang%20Tuan&fontSize=58&fontColor=C9A84C&fontAlignY=44&desc=Founder%20-%20CEO%20MST%20Software%20%20|%20%20VP%20Academic%20F-Code%20Club%20&descSize=15&descFontColor=888888&descAlignY=63&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -31,22 +31,24 @@
 
 ## About
 
-I'm a Full-Stack Web Developer and **Founder & CEO of MST Software** — a company I built to engineer specialized technology solutions for the **MMO (Make Money Online)** market. I design the systems, lead the team, and own the product direction end-to-end.
+I'm a Full-Stack Web Developer, **Founder & CEO of MST Software**, and a student enrolled simultaneously at **FPT University** and **FPT Aptech** — two of Vietnam's most recognized technology institutions. Running a company and holding leadership positions at a university club while pursuing dual degrees isn't a flex. It's just how I operate.
 
-Alongside running a company, I serve as **VP Academic at F-Code Club, FPT University HCMC** — where I define the technical curriculum and personally mentor students toward real-world engineering standards.
+I built MST Software to engineer specialized technology solutions for the **MMO (Make Money Online)** market — an industry most developers overlook, but one that demands serious technical depth. The products we build handle real transaction flows, automation pipelines, and licensing infrastructure for a global user base operating in this space.
 
-I also run **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)**, a YouTube channel with nearly **100,000 subscribers** (Verified), sharing practical software engineering knowledge from a founder's perspective.
+At **F-Code Club, FPT University HCMC**, I currently serve as **VP Academic** — responsible for the full technical education program across the club. Prior to this, I joined F-Code as a developer member and rose through the organization. During the club's annual Recruitment season, I led the technical track as **Technical Leader**, designing and evaluating challenges to identify the next generation of engineers.
 
-I have a deep interest in **web application security**. I've identified and responsibly disclosed critical vulnerabilities in institutional systems — including authentication bypasses, exposed data endpoints, and privilege escalation paths — reporting all findings directly to the relevant parties rather than exploiting them.
+I also run **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)**, a YouTube channel with nearly **100,000 subscribers** (Verified) — where I share engineering knowledge from a founder's perspective, not a textbook's.
+
+I have a focused interest in **web application security**. I've identified and responsibly disclosed critical vulnerabilities in institutional systems — including authentication bypasses, exposed data endpoints, and privilege escalation paths — reporting all findings directly to the relevant parties rather than exploiting them.
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | &nbsp; |
-|:---:|:---:|
-| **10+** Projects Shipped | **100+** Students Mentored |
-| **~100K** YouTube Subscribers | **2** Companies / Clubs Led |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|:---:|
+| **10+** | **60+** | **~100K** | **2** |
+| Projects Shipped | Students Mentored | YouTube Subscribers | Degrees in Progress |
 
 </div>
 
@@ -65,7 +67,9 @@ I have a deep interest in **web application security**. I've identified and resp
 **Founder & CEO — MST Software**
 `MMO Solution Technology`
 
-I build and lead a company focused entirely on the MMO ecosystem. My responsibilities span system architecture, engineering standards, product strategy, and team leadership. Every line of technical direction at MST Software flows through me.
+MST Software is a software company built exclusively for the MMO ecosystem. Our product suite covers hosting automation, digital asset trading, game tool licensing, and online learning infrastructure — all engineered for stability, customizability, and real-world scale.
+
+I own every dimension of the company: system architecture, engineering standards, product roadmap, and team direction.
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +77,40 @@ I build and lead a company focused entirely on the MMO ecosystem. My responsibil
 **VP Academic — F-Code Club**
 `FPT University Ho Chi Minh City`
 
-I hold full accountability for academic quality at F-Code — one of FPT University's most prominent developer clubs. I design the curriculum, mentor members directly, and set the long-term technical vision for the club's education program.
+F-Code is FPT University's premier developer club. As VP Academic, I hold full accountability for the club's technical education quality — from curriculum design to direct mentorship of members.
+
+Prior to this role, I was an active developer member of F-Code. During Recruitment seasons, I served as **Technical Leader** — architecting the technical challenges and leading the evaluation process for incoming candidates.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Education
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**FPT University**
+`Ho Chi Minh City · In Progress`
+
+One of Vietnam's top-ranked technology universities under the FPT Education ecosystem. Focused on applied software engineering, system design, and collaborative product development.
+
+</td>
+<td width="50%" valign="top">
+
+**FPT Aptech**
+`Ho Chi Minh City · In Progress`
+
+International programming training institute under FPT Education. Recognized for producing industry-ready developers with practical full-stack capabilities.
+
+Featured by FPT Aptech for building products with thousands of real users while still a student — [read here](https://aptech.fpt.edu.vn/pham-hoang-tuan-sinh-vien-fpt-aptech-hcm.html).
 
 </td>
 </tr>
@@ -90,7 +127,7 @@ I hold full accountability for academic quality at F-Code — one of FPT Univers
 <br/>
 
 **MapLearn — Online Learning Platform**
-Full-stack e-learning system for high school students. Featured by FPT Aptech as a standout student product.
+Full-stack e-learning system designed for high school students. Separate frontend and backend repositories, built for real scale.
 Frontend → [`maplearn-platform-web-nextjs`](https://github.com/hoangtuanqn/maplearn-platform-web-nextjs) &nbsp;·&nbsp; Backend → [`maplearn-platform-api`](https://github.com/hoangtuanqn/maplearn-platform-api)
 Stack: Next.js · NestJS · MongoDB · TypeScript
 📰 [Featured — FPT Aptech](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html)
@@ -104,32 +141,32 @@ Commercial-grade web platform for school uniform retail. Recognized by FPT Aptec
 ---
 
 **NRO Mart Core — Game Item Marketplace**
-Specialized marketplace for the Ngọc Rồng Online game ecosystem. Built with a deep understanding of MMO market dynamics.
+Specialized marketplace for the Ngọc Rồng Online game ecosystem. Built with deep understanding of MMO player behavior and transaction dynamics.
 [`nro-mart-core`](https://github.com/hoangtuanqn/nro-mart-core)
 
 ---
 
 **F-Code Challenge 3 — Competition Web System**
-Internal web platform engineered for F-Code Club's competitive programming challenge.
+Internal web platform built for F-Code Club's competitive programming challenge. Designed and deployed to handle real club-scale traffic.
 [`fcode-web-system-challenge-3`](https://github.com/hoangtuanqn/fcode-web-system-challenge-3)
 
 ---
 
 **Web Hosting Business Automation**
-Automated sales and provisioning system for hosting services — part of MST Software's MMO product suite.
-[`web-hosting-business-automation`](https://github.com/hoangtuanqn/web-hosting-business-automation) &nbsp;·&nbsp; `Private / Internal`
+Automated sales and provisioning pipeline for hosting services — part of MST Software's core MMO business infrastructure.
+[`web-hosting-business-automation`](https://github.com/hoangtuanqn/web-hosting-business-automation)
 
 ---
 
 **Web Resource Trading System**
-Digital asset and source code trading platform, purpose-built for the MMO market.
-[`web-resource-trading-system`](https://github.com/hoangtuanqn/web-resource-trading-system) &nbsp;·&nbsp; `Private / Internal`
+Digital asset and source code trading platform built for the MMO market. Handles full catalog, transaction, and delivery flow.
+[`web-resource-trading-system`](https://github.com/hoangtuanqn/web-resource-trading-system)
 
 ---
 
 **Game Tool Licensing System**
-License key distribution and validation system for game tools.
-[`game-tool-licensing-system`](https://github.com/hoangtuanqn/game-tool-licensing-system) &nbsp;·&nbsp; `Private / Internal`
+License key generation, distribution, and validation system for game tools. Core licensing infrastructure for MST Software's MMO tooling line.
+[`game-tool-licensing-system`](https://github.com/hoangtuanqn/game-tool-licensing-system)
 
 <br/>
 
@@ -154,14 +191,14 @@ License key distribution and validation system for game tools.
 
 ## Security Research
 
-I actively research web application security beyond theory — probing real systems to understand vulnerabilities at a technical level. When findings are significant, I report them responsibly.
+I actively research web application security — probing real systems to understand vulnerabilities at depth. When findings are significant, I report them responsibly.
 
 > **Responsible Disclosure — FPT Aptech**
 > Identified multiple critical vulnerabilities in FPT Aptech's internal web infrastructure: authentication bypass vectors, exposed student data endpoints, and privilege escalation paths. All findings were reported directly to the institution rather than exploited.
 >
 > *Understanding how systems break is the prerequisite to building systems that don't.*
 
-Areas of focus: Authentication logic flaws · IDOR · SQL Injection · XSS · API access control
+Areas of focus: `Authentication Bypass` &nbsp;`IDOR` &nbsp;`SQL Injection` &nbsp;`XSS` &nbsp;`API Access Control`
 
 <br/>
 
@@ -175,12 +212,12 @@ Areas of focus: Authentication logic flaws · IDOR · SQL Injection · XSS · AP
 
 | Layer | Technologies |
 |:---|:---|
-| **Primary** | PHP · JavaScript · TypeScript |
+| **Primary Languages** | PHP · JavaScript · TypeScript |
 | **Backend** | Laravel · NestJS · Express.js · .NET |
 | **Frontend** | Next.js · React · Tailwind CSS · SASS |
 | **State & Forms** | Redux Toolkit · React Hook Form · Zod |
-| **Database** | MySQL · PostgreSQL · MongoDB · Redis |
-| **Messaging** | RabbitMQ · Apache Kafka |
+| **Database & Cache** | MySQL · PostgreSQL · MongoDB · Redis |
+| **Messaging** | RabbitMQ |
 | **Infrastructure** | Docker · GitHub |
 | **Other Languages** | Go · C# · Java |
 | **Tooling** | Figma · Notion · Lark · VS Code |
