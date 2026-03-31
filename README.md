@@ -33,17 +33,17 @@
 
 ## About
 
-I'm a Full-Stack Web Developer, **Founder & CEO of MST Software**, and a student enrolled simultaneously at **FPT University** and **FPT Aptech** — two of Vietnam's most recognized technology institutions. Running a company and holding leadership positions at a university club while pursuing dual degrees isn't a flex. It's just how I operate.
+I'm a Full-Stack Web Developer, **Founder & CEO of MST Software**, and a student enrolled simultaneously at **FPT University** and **FPT Aptech** - two of Vietnam's most recognized technology institutions. Running a company and holding leadership positions at a university club while pursuing dual degrees isn't a flex. It's just how I operate.
 
-I built MST Software to engineer specialized technology solutions for the **MMO (Make Money Online)** market — an industry most developers overlook, but one that demands serious technical depth. The products we build handle real transaction flows, automation pipelines, and licensing infrastructure for a global user base operating in this space.
+I built MST Software to engineer specialized technology solutions for the **MMO (Make Money Online)** market - an industry most developers overlook, but one that demands serious technical depth. The products we build handle real transaction flows, automation pipelines, and licensing infrastructure for a global user base operating in this space.
 
-At **F-Code Club, FPT University HCMC**, I currently serve as **VP Academic** — responsible for the full technical education program across the club. Prior to this, I joined F-Code as a developer member and rose through the organization. During the club's annual Recruitment season, I led the technical track as **Technical Leader**, designing and evaluating challenges to identify the next generation of engineers.
+At **F-Code Club, FPT University HCMC**, I currently serve as **VP Academic** - responsible for the full technical education program across the club. Prior to this, I joined F-Code as a developer member and rose through the organization. During the club's annual Recruitment season, I led the technical track as **Technical Leader**, designing and evaluating challenges to identify the next generation of engineers.
 
-I run multiple YouTube channels under the Tuấn Ori brand: **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)** (nearly 100,000 subscribers · Verified), **[Tuấn Ori API](https://www.youtube.com/@TuanOriITv3)**, and **[Ori IT](https://www.youtube.com/@OriITv2)** — each covering a different angle of software engineering and MMO technology, all from a founder's perspective, not a textbook's.
+I run multiple YouTube channels under the Tuấn Ori brand: **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)** (nearly 100,000 subscribers · Verified), **[Tuấn Ori API](https://www.youtube.com/@TuanOriITv3)**, and **[Ori IT](https://www.youtube.com/@OriITv2)** - each covering a different angle of software engineering and MMO technology, all from a founder's perspective, not a textbook's.
 
-Beyond building for clients, I've independently shipped products that reached **25,000 active users** and generated revenue in the **9–10 digit range (VND)** — bootstrapped, no external funding.
+Beyond building for clients, I've independently shipped products that reached **25,000 active users** and generated revenue in the **9–10 digit range (VND)** - bootstrapped, no external funding.
 
-I have a focused interest in **web application security**. I've identified and responsibly disclosed critical vulnerabilities in institutional systems — including authentication bypasses, exposed data endpoints, and privilege escalation paths — reporting all findings directly to the relevant parties rather than exploiting them.
+I have a focused interest in **web application security**. I've identified and responsibly disclosed critical vulnerabilities in institutional systems - including authentication bypasses, exposed data endpoints, and privilege escalation paths - reporting all findings directly to the relevant parties rather than exploiting them.
 
 <br/>
 
@@ -68,22 +68,22 @@ I have a focused interest in **web application security**. I've identified and r
 <tr>
 <td width="50%" valign="top">
 
-**Founder & CEO — MST Software**
+**Founder & CEO - MST Software**
 `MMO Solution Technology`
 
-MST Software is a software company built exclusively for the MMO ecosystem. Our product suite covers hosting automation, digital asset trading, game tool licensing, and online learning infrastructure — all engineered for stability, customizability, and real-world scale.
+MST Software is a software company built exclusively for the MMO ecosystem. Our product suite covers hosting automation, digital asset trading, game tool licensing, and online learning infrastructure - all engineered for stability, customizability, and real-world scale.
 
 I own every dimension of the company: system architecture, engineering standards, product roadmap, and team direction.
 
 </td>
 <td width="50%" valign="top">
 
-**VP Academic — F-Code Club**
+**VP Academic - F-Code Club**
 `FPT University Ho Chi Minh City`
 
-F-Code is FPT University's premier developer club. As VP Academic, I hold full accountability for the club's technical education quality — from curriculum design to direct mentorship of members.
+F-Code is FPT University's premier developer club. As VP Academic, I hold full accountability for the club's technical education quality - from curriculum design to direct mentorship of members.
 
-Prior to this role, I was an active developer member of F-Code. During Recruitment seasons, I served as **Technical Leader** — architecting the technical challenges and leading the evaluation process for incoming candidates.
+Prior to this role, I was an active developer member of F-Code. During Recruitment seasons, I served as **Technical Leader** - architecting the technical challenges and leading the evaluation process for incoming candidates.
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ One of Vietnam's top-ranked technology universities under the FPT Education ecos
 
 International programming training institute under FPT Education. Recognized for producing industry-ready developers with practical full-stack capabilities.
 
-Featured by FPT Aptech for building products with thousands of real users while still a student — [read here](https://aptech.fpt.edu.vn/pham-hoang-tuan-sinh-vien-fpt-aptech-hcm.html).
+Featured by FPT Aptech for building products with thousands of real users while still a student - [read here](https://aptech.fpt.edu.vn/pham-hoang-tuan-sinh-vien-fpt-aptech-hcm.html).
 
 </td>
 </tr>
@@ -130,34 +130,34 @@ Featured by FPT Aptech for building products with thousands of real users while 
 
 <br/>
 
-**MapLearn — Online Learning Platform**
+**MapLearn - Online Learning Platform**
 Full-stack e-learning system designed for high school students. Separate frontend and backend repositories, built for real scale.
 Frontend → [`maplearn-platform-web-nextjs`](https://github.com/hoangtuanqn/maplearn-platform-web-nextjs) &nbsp;·&nbsp; Backend → [`maplearn-platform-api`](https://github.com/hoangtuanqn/maplearn-platform-api)
 Stack: Next.js · NestJS · MongoDB · TypeScript
-📰 [Featured — FPT Aptech](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html)
+📰 [Featured - FPT Aptech](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html)
 
 ---
 
-**Maverick Dresses — School Uniform E-Commerce**
+**Maverick Dresses - School Uniform E-Commerce**
 Commercial-grade web platform for school uniform retail. Recognized by FPT Aptech as a standout student product.
-📰 [Featured — FPT Aptech](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html)
+📰 [Featured - FPT Aptech](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html)
 
 ---
 
-**NRO Mart Core — Game Item Marketplace**
+**NRO Mart Core - Game Item Marketplace**
 Specialized marketplace for the Ngọc Rồng Online game ecosystem. Built with deep understanding of MMO player behavior and transaction dynamics.
 [`nro-mart-core`](https://github.com/hoangtuanqn/nro-mart-core)
 
 ---
 
-**F-Code Challenge 3 — Competition Web System**
+**F-Code Challenge 3 - Competition Web System**
 Internal web platform built for F-Code Club's competitive programming challenge. Designed and deployed to handle real club-scale traffic.
 [`fcode-web-system-challenge-3`](https://github.com/hoangtuanqn/fcode-web-system-challenge-3)
 
 ---
 
 **Web Hosting Business Automation**
-Automated sales and provisioning pipeline for hosting services — part of MST Software's core MMO business infrastructure.
+Automated sales and provisioning pipeline for hosting services - part of MST Software's core MMO business infrastructure.
 [`web-hosting-business-automation`](https://github.com/hoangtuanqn/web-hosting-business-automation)
 
 ---
@@ -183,9 +183,9 @@ License key generation, distribution, and validation system for game tools. Core
 | Source | |
 |:---|:---|
 | FPT Aptech | [Sinh viên Phạm Hoàng Tuấn sở hữu dự án website hàng nghìn lượt truy cập](https://aptech.fpt.edu.vn/pham-hoang-tuan-sinh-vien-fpt-aptech-hcm.html) |
-| FPT Aptech | [MapLearn — Nền tảng học tập trực tuyến dành cho học sinh THPT](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html) |
-| FPT Aptech | [Maverick Dresses — Website kinh doanh đồng phục học đường](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html) |
-| FPT Education | [Sinh viên Xuất sắc — Viện Đào tạo Quốc tế FPT](https://www.facebook.com/tuyensinh.viendaotaoquoctefpt/posts/pfbid02DnimKdFN7apTfBnThQaC12r9em1D335qVER4QjsNagrfMk6fxRGLzYksgsQRgaK6l) |
+| FPT Aptech | [MapLearn - Nền tảng học tập trực tuyến dành cho học sinh THPT](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html) |
+| FPT Aptech | [Maverick Dresses - Website kinh doanh đồng phục học đường](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html) |
+| FPT Education | [Sinh viên Xuất sắc - Viện Đào tạo Quốc tế FPT](https://www.facebook.com/tuyensinh.viendaotaoquoctefpt/posts/pfbid02DnimKdFN7apTfBnThQaC12r9em1D335qVER4QjsNagrfMk6fxRGLzYksgsQRgaK6l) |
 
 <br/>
 
@@ -195,9 +195,9 @@ License key generation, distribution, and validation system for game tools. Core
 
 ## Security Research
 
-I actively research web application security — probing real systems to understand vulnerabilities at depth. When findings are significant, I report them responsibly.
+I actively research web application security - probing real systems to understand vulnerabilities at depth. When findings are significant, I report them responsibly.
 
-> **Responsible Disclosure — FPT Aptech**
+> **Responsible Disclosure - FPT Aptech**
 > Identified multiple critical vulnerabilities in FPT Aptech's internal web infrastructure: authentication bypass vectors, exposed student data endpoints, and privilege escalation paths. All findings were reported directly to the institution rather than exploited.
 >
 > *Understanding how systems break is the prerequisite to building systems that don't.*
