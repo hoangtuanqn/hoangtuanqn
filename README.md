@@ -33,17 +33,13 @@
 
 ## About
 
-I'm a Full-Stack Web Developer, **Founder & CEO of MST Software**, and a student enrolled simultaneously at **FPT University** and **FPT Aptech** - two of Vietnam's most recognized technology institutions. Running a company and holding leadership positions at a university club while pursuing dual degrees isn't a flex. It's just how I operate.
+I'm a Full-Stack Web Developer and **Founder & CEO of MST Software** - a software company focused entirely on the **MMO (Make Money Online)** market.
 
-I built MST Software to engineer specialized technology solutions for the **MMO (Make Money Online)** market - an industry most developers overlook, but one that demands serious technical depth. The products we build handle real transaction flows, automation pipelines, and licensing infrastructure for a global user base operating in this space.
+Most developers overlook this space. I built a company around it. MST Software engineers end-to-end technology solutions for MMO operators and players: game account commerce, digital asset trading, tool licensing, fraud detection, and hosting automation - products that handle real money, real users, and real operational pressure.
 
-At **F-Code Club, FPT University HCMC**, I currently serve as **VP Academic** - responsible for the full technical education program across the club. Prior to this, I joined F-Code as a developer member and rose through the organization. During the club's annual Recruitment season, I led the technical track as **Technical Leader**, designing and evaluating challenges to identify the next generation of engineers.
+At **F-Code Club, FPT University HCMC**, I serve as **VP Academic**, accountable for the club's full technical education program. I also run multiple YouTube channels under the **Tuan Ori** brand (nearly 100K verified subscribers), covering software engineering and MMO technology from a founder's perspective.
 
-I run multiple YouTube channels under the Tuấn Ori brand: **[Tuấn Ori IT](https://www.youtube.com/@htuanqn)** (nearly 100,000 subscribers · Verified), **[Tuấn Ori API](https://www.youtube.com/@TuanOriITv3)**, and **[Ori IT](https://www.youtube.com/@OriITv2)** - each covering a different angle of software engineering and MMO technology, all from a founder's perspective, not a textbook's.
-
-Beyond building for clients, I've independently shipped products that reached **25,000 active users** and generated revenue in the **9–10 digit range (VND)** - bootstrapped, no external funding.
-
-I have a focused interest in **web application security**. I've identified and responsibly disclosed critical vulnerabilities in institutional systems - including authentication bypasses, exposed data endpoints, and privilege escalation paths - reporting all findings directly to the relevant parties rather than exploiting them.
+Bootstrapped. 25,000+ peak users. 9–10 digit VND in revenue. No external funding.
 
 <br/>
 
@@ -51,7 +47,7 @@ I have a focused interest in **web application security**. I've identified and r
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |:---:|:---:|:---:|:---:|:---:|
-| **10+** | **60+** | **~100K** | **25K+** | **2** |
+| **12+** | **60+** | **~100K** | **25K+** | **2** |
 | Projects Shipped | Students Mentored | YouTube Subscribers | Peak Users | Degrees in Progress |
 
 </div>
@@ -128,49 +124,20 @@ Featured by FPT Aptech for building products with thousands of real users while 
 
 ## Projects
 
-<br/>
+### MMO Solutions - Live Products
 
-**MapLearn - Online Learning Platform**
-Full-stack e-learning system designed for high school students. Separate frontend and backend repositories, built for real scale.
-Frontend → [`maplearn-platform-web-nextjs`](https://github.com/hoangtuanqn/maplearn-platform-web-nextjs) &nbsp;·&nbsp; Backend → [`maplearn-platform-api`](https://github.com/hoangtuanqn/maplearn-platform-api)
-Stack: Next.js · NestJS · MongoDB · TypeScript
-📰 [Featured - FPT Aptech](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html)
+- **[Shop Acc Game](http://shopaccgamev2.tuanori.vn/)** - Multi-genre game account marketplace. Full transaction lifecycle, account verification, and buyer-seller trust infrastructure for Vietnam's game trading market.
+- **[CheckScam](https://checkscam.tuanori.vn/)** - Online fraud detection tool. Verify phone numbers, bank accounts, and domains against community-reported scam data. Built to combat the growing scam volume targeting Vietnamese internet users.
+- **[Web Hosting Business Automation](https://github.com/hoangtuanqn/web-hosting-business-automation)** - Automated sales and provisioning pipeline for hosting services. Core infrastructure for MST Software's MMO business operations.
+- **[Web Resource Trading System](https://github.com/hoangtuanqn/web-resource-trading-system)** - Digital asset and source code trading platform for the MMO market. Handles full catalog, transaction, and delivery flow.
+- **[Game Tool Licensing System](https://github.com/hoangtuanqn/game-tool-licensing-system)** - License key generation, distribution, and validation for game tools. Core licensing infrastructure for MST Software's MMO tooling line.
+- **[NRO Mart Core](https://github.com/hoangtuanqn/nro-mart-core)** - Specialized game item marketplace for the Ngoc Rong Online ecosystem. Built with deep understanding of MMO player behavior and transaction dynamics.
 
----
+### Education & Community
 
-**Maverick Dresses - School Uniform E-Commerce**
-Commercial-grade web platform for school uniform retail. Recognized by FPT Aptech as a standout student product.
-📰 [Featured - FPT Aptech](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html)
-
----
-
-**NRO Mart Core - Game Item Marketplace**
-Specialized marketplace for the Ngọc Rồng Online game ecosystem. Built with deep understanding of MMO player behavior and transaction dynamics.
-[`nro-mart-core`](https://github.com/hoangtuanqn/nro-mart-core)
-
----
-
-**F-Code Challenge 3 - Competition Web System**
-Internal web platform built for F-Code Club's competitive programming challenge. Designed and deployed to handle real club-scale traffic.
-[`fcode-web-system-challenge-3`](https://github.com/hoangtuanqn/fcode-web-system-challenge-3)
-
----
-
-**Web Hosting Business Automation**
-Automated sales and provisioning pipeline for hosting services - part of MST Software's core MMO business infrastructure.
-[`web-hosting-business-automation`](https://github.com/hoangtuanqn/web-hosting-business-automation)
-
----
-
-**Web Resource Trading System**
-Digital asset and source code trading platform built for the MMO market. Handles full catalog, transaction, and delivery flow.
-[`web-resource-trading-system`](https://github.com/hoangtuanqn/web-resource-trading-system)
-
----
-
-**Game Tool Licensing System**
-License key generation, distribution, and validation system for game tools. Core licensing infrastructure for MST Software's MMO tooling line.
-[`game-tool-licensing-system`](https://github.com/hoangtuanqn/game-tool-licensing-system)
+- **[MapLearn](https://github.com/hoangtuanqn/maplearn-platform-web-nextjs)** - Full-stack e-learning platform for high school students. `Next.js · NestJS · MongoDB · TypeScript` - [Featured by FPT Aptech](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html)
+- **[Maverick Dresses](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html)** - Commercial-grade school uniform e-commerce platform. Recognized by FPT Aptech as a standout student product.
+- **[F-Code Challenge 3](https://github.com/hoangtuanqn/fcode-web-system-challenge-3)** - Competition web system for F-Code Club's internal programming challenge. Designed to handle real club-scale traffic.
 
 <br/>
 
@@ -182,10 +149,10 @@ License key generation, distribution, and validation system for game tools. Core
 
 | Source | |
 |:---|:---|
-| FPT Aptech | [Sinh viên Phạm Hoàng Tuấn sở hữu dự án website hàng nghìn lượt truy cập](https://aptech.fpt.edu.vn/pham-hoang-tuan-sinh-vien-fpt-aptech-hcm.html) |
-| FPT Aptech | [MapLearn - Nền tảng học tập trực tuyến dành cho học sinh THPT](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html) |
-| FPT Aptech | [Maverick Dresses - Website kinh doanh đồng phục học đường](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html) |
-| FPT Education | [Sinh viên Xuất sắc - Viện Đào tạo Quốc tế FPT](https://www.facebook.com/tuyensinh.viendaotaoquoctefpt/posts/pfbid02DnimKdFN7apTfBnThQaC12r9em1D335qVER4QjsNagrfMk6fxRGLzYksgsQRgaK6l) |
+| FPT Aptech | [Sinh vien Pham Hoang Tuan so huu du an website hang nghin luot truy cap](https://aptech.fpt.edu.vn/pham-hoang-tuan-sinh-vien-fpt-aptech-hcm.html) |
+| FPT Aptech | [MapLearn - Nen tang hoc tap truc tuyen danh cho hoc sinh THPT](https://aptech.fpt.edu.vn/maplearn-edu-nen-tang-hoc-tap-truc-tuyen-danh-cho-hoc-sinh-thpt.html) |
+| FPT Aptech | [Maverick Dresses - Website kinh doanh dong phuc hoc duong](https://aptech.fpt.edu.vn/website-kinh-doanh-san-pham-dong-phuc-hoc-duong-maverick-dresses.html) |
+| FPT Education | [Sinh vien Xuat sac - Vien Dao tao Quoc te FPT](https://www.facebook.com/tuyensinh.viendaotaoquoctefpt/posts/pfbid02DnimKdFN7apTfBnThQaC12r9em1D335qVER4QjsNagrfMk6fxRGLzYksgsQRgaK6l) |
 
 <br/>
 
